@@ -182,14 +182,7 @@ Electricity is **invisible**. Students struggle to understand circuits, current 
 **For demos, investment discussions, or academic partnerships:**
 - **Email:** mitchelllorinmcknight@gmail.com
 - **LinkedIn:** [your-linkedin]
-- **Repository:** [github-url]
-
----
-
-## 🎓 **Academic Endorsements**
-
-*"This could fundamentally change how we teach physics."*  
-— *Dr. [Name], Physics Department, [University]* *(placeholder for future endorsements)*
+- **Repository:** https://github.com/Mitchelllorin/Circuitry-
 
 ---
 
